@@ -1,0 +1,6 @@
+framework module Pods_cleverpush_example_ios_multitarget_2 {
+  umbrella header "Pods-cleverpush-example-ios-multitarget-2-umbrella.h"
+
+  export *
+  module * { export * }
+}
